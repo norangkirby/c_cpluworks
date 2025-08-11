@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworkspace\\Project7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\stack2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\stack2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\dic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\dic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|C:\\cplusworkspace\\Project7\\Project7\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B3D88-A349-4F1C-A5D8-C18997757BB4}|Project7\\Project7.vcxproj|solutionrelative:Project7\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "Project7\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "Project7\\\uC18C\uC2A4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:42:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "queue.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\queue.cpp",
+              "RelativeDocumentMoniker": "Project7\\queue.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\queue.cpp",
+              "RelativeToolTip": "Project7\\queue.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:26:20.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stack2.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\stack2.cpp",
+              "RelativeDocumentMoniker": "Project7\\stack2.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\stack2.cpp",
+              "RelativeToolTip": "Project7\\stack2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T07:10:15.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stack.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\stack.cpp",
+              "RelativeDocumentMoniker": "Project7\\stack.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\stack.cpp",
+              "RelativeToolTip": "Project7\\stack.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T08:40:08.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dic.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\dic.cpp",
+              "RelativeDocumentMoniker": "Project7\\dic.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\dic.cpp",
+              "RelativeToolTip": "Project7\\dic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T08:22:39.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "map.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\map.cpp",
+              "RelativeDocumentMoniker": "Project7\\map.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\map.cpp",
+              "RelativeToolTip": "Project7\\map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T08:05:26.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auto.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\auto.cpp",
+              "RelativeDocumentMoniker": "Project7\\auto.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\auto.cpp",
+              "RelativeToolTip": "Project7\\auto.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T07:45:12.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\vector.cpp",
+              "RelativeDocumentMoniker": "Project7\\vector.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\vector.cpp",
+              "RelativeToolTip": "Project7\\vector.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T07:21:46.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "math.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project7\\Project7\\math.cpp",
+              "RelativeDocumentMoniker": "Project7\\math.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project7\\Project7\\math.cpp",
+              "RelativeToolTip": "Project7\\math.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T07:07:04.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

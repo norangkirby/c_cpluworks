@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-bus::bus(int num, int fee) : busnum(busnum), passenger(0), gain(0), fee(fee) {
+bus::bus(int num, int fee) : busnum(num), passenger(0), gain(0), fee(fee) {
 
 }
 

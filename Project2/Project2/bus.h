@@ -9,7 +9,7 @@ private:
 	int gain;
 	const int fee;
 public:
-	bus(int num, int fee = 1500);
+	bus(int busnum, int fee = 1500);
 
 	void take();
 	int getfee();

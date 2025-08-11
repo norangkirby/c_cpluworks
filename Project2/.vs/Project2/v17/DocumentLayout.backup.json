@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\cplusworkspace\\Project2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|C:\\cplusworkspace\\Project2\\Project2\\reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|solutionrelative:Project2\\reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|C:\\cplusworkspace\\Project2\\Project2\\main\u0027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|solutionrelative:Project2\\main\u0027.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|C:\\cplusworkspace\\Project2\\Project2\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|solutionrelative:Project2\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|C:\\cplusworkspace\\Project2\\Project2\\buus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|solutionrelative:Project2\\buus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|solutionrelative:Project2\\bus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|C:\\cplusworkspace\\Project2\\Project2\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|solutionrelative:Project2\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|C:\\cplusworkspace\\Project2\\Project2\\subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|solutionrelative:Project2\\subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|C:\\cplusworkspace\\Project2\\Project2\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACE3928-BE4B-4347-BD52-92196D63AF60}|Project2\\Project2.vcxproj|solutionrelative:Project2\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "reference.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project2\\Project2\\reference.cpp",
+              "RelativeDocumentMoniker": "Project2\\reference.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project2\\Project2\\reference.cpp*",
+              "RelativeToolTip": "Project2\\reference.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T07:29:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main\u0027.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project2\\Project2\\main\u0027.cpp",
+              "RelativeDocumentMoniker": "Project2\\main\u0027.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project2\\Project2\\main\u0027.cpp",
+              "RelativeToolTip": "Project2\\main\u0027.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T07:17:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "person.cpp",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project2\\Project2\\person.cpp",
+              "RelativeDocumentMoniker": "Project2\\person.cpp",
+              "ToolTip": "C:\\cplusworkspace\\Project2\\Project2\\person.cpp",
+              "RelativeToolTip": "Project2\\person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T07:09:39.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "person.h",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project2\\Project2\\person.h",
+              "RelativeDocumentMoniker": "Project2\\person.h",
+              "ToolTip": "C:\\cplusworkspace\\Project2\\Project2\\person.h",
+              "RelativeToolTip": "Project2\\person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T07:06:02.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "buus.cpp",
               "DocumentMoniker": "C:\\cplusworkspace\\Project2\\Project2\\buus.cpp",
               "RelativeDocumentMoniker": "Project2\\buus.cpp",
               "ToolTip": "C:\\cplusworkspace\\Project2\\Project2\\buus.cpp",
               "RelativeToolTip": "Project2\\buus.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-30T09:47:33.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "bus.h",
               "DocumentMoniker": "C:\\cplusworkspace\\Project2\\Project2\\bus.h",
               "RelativeDocumentMoniker": "Project2\\bus.h",
               "ToolTip": "C:\\cplusworkspace\\Project2\\Project2\\bus.h",
               "RelativeToolTip": "Project2\\bus.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-30T09:43:45.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "student.h",
-              "DocumentMoniker": "C:\\cplusworkspace\\Project2\\Project2\\student.h",
-              "RelativeDocumentMoniker": "Project2\\student.h",
-              "ToolTip": "C:\\cplusworkspace\\Project2\\Project2\\student.h",
-              "RelativeToolTip": "Project2\\student.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-30T08:17:42.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "subject.h",
-              "DocumentMoniker": "C:\\cplusworkspace\\Project2\\Project2\\subject.h",
-              "RelativeDocumentMoniker": "Project2\\subject.h",
-              "ToolTip": "C:\\cplusworkspace\\Project2\\Project2\\subject.h",
-              "RelativeToolTip": "Project2\\subject.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-30T08:07:49.74Z",
               "EditorCaption": ""
             }
           ]
