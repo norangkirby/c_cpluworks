@@ -44,7 +44,12 @@ int fibo(int a) {
 
 }
 
+int memo[50] = { 0 };
+
 int fibo2(int a) {
+	if (memo[a] != 0) {
+		return memo[a];
+	}
 	if (a <= 2) {
 		return 1;
 	}
@@ -56,7 +61,7 @@ int fibo2(int a) {
 
 int main() {
 	for (int i = 1; i < 12; i++) {
-		printf("%d ", fibo(i));
+		printf("%d ", func(i));
 	}
 	return 0;
 }
