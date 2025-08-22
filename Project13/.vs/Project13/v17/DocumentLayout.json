@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cplusworkspace\\Project13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|C:\\cplusworkspace\\Project13\\Project13\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|solutionrelative:Project13\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|C:\\cplusworkspace\\Project13\\Project13\\line_Q.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|solutionrelative:Project13\\line_Q.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A42.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|solutionrelative:Project13\\\uC18C\uC2A42.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A41.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|solutionrelative:Project13\\\uC18C\uC2A41.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7506E598-E103-41DC-90C3-5C5F0326CC08}|Project13\\Project13.vcxproj|solutionrelative:Project13\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "line_Q.c",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project13\\Project13\\line_Q.c",
+              "RelativeDocumentMoniker": "Project13\\line_Q.c",
+              "ToolTip": "C:\\cplusworkspace\\Project13\\Project13\\line_Q.c",
+              "RelativeToolTip": "Project13\\line_Q.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-22T08:44:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project13\\Project13\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "RelativeDocumentMoniker": "Project13\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "ToolTip": "C:\\cplusworkspace\\Project13\\Project13\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "RelativeToolTip": "Project13\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-22T07:37:17.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uC18C\uC2A42.c",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A42.c",
+              "RelativeDocumentMoniker": "Project13\\\uC18C\uC2A42.c",
+              "ToolTip": "C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A42.c",
+              "RelativeToolTip": "Project13\\\uC18C\uC2A42.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-22T07:28:12.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uC18C\uC2A41.c",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A41.c",
+              "RelativeDocumentMoniker": "Project13\\\uC18C\uC2A41.c",
+              "ToolTip": "C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A41.c",
+              "RelativeToolTip": "Project13\\\uC18C\uC2A41.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-22T07:05:54.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uC18C\uC2A4.c",
+              "DocumentMoniker": "C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "Project13\\\uC18C\uC2A4.c",
+              "ToolTip": "C:\\cplusworkspace\\Project13\\Project13\\\uC18C\uC2A4.c",
+              "RelativeToolTip": "Project13\\\uC18C\uC2A4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-22T06:52:49.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
